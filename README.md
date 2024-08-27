@@ -2,7 +2,7 @@ Circuit Breaker მოდული
 
 * maven dependency:  
 
-  groupId: com.azry  
+  groupId: org.george.gorelishvili.circuit_breaker
   artifactId: circuit-breaker  
   version: 1.0  
 
